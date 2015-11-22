@@ -11,6 +11,7 @@ namespace ConsoleTestGit
         static void Main(string[] args)
         {
             Console.Write("This is a test of my console app.");
+            Console.Write("This is my second message for my console app.");
         }
     }
 }
